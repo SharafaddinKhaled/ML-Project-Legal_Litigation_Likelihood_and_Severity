@@ -1,10 +1,8 @@
 #################################### 
-
 # Khaled Sharafaddin
-# July 03.2020 
-# Capstone Final Project 
-# Masters: Data Science 
-
+# July 03.2021
+# Regression and Classification Analysis Report  
+# Mohawk Industries 
 #################################### 
 
 # 1. Load Libraries
@@ -1549,21 +1547,3 @@ legend("topright", c("$42,410,405","$57,071,429",'$27,441,548','$20,627,000','$2
        bty="n")
 
 #################################################################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
