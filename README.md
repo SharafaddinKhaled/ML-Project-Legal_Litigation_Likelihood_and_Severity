@@ -1,6 +1,6 @@
-## MOHAWK INDUSTRIES: Legal Litigation Likelihood and Severity Classification and Regression Analysis Report. 
+### MOHAWK INDUSTRIES: Legal Litigation Likelihood and Severity Classification and Regression Analysis Report. 
 
-## EXECUTIVE SUMMARY
+### EXECUTIVE SUMMARY
 - The financial dataset represents business information for over 2,600 US and international corporations worldwide from 2009 to 2014 fiscal years. Information is collected from multiple sources including companies’ financial data, government ratings, securities and the SCA filing and settlements public data for companies that have been historically subject to litigation. The goal of this report is to identify and examine the potential risk factors associated with shareholders legal actions against MOHAWK INDUSTRIES. Understanding the risk factors of litigation will better prepare the organization financially and legally by mitigating these threats in the short and long term, and potentially enroll in lawsuit insurance programs suitable for the business. 
 
 - Over the course of this analysis, methods used for exploratory data analysis and aggregation, feature selection, data imputation and normalization techniques, hyperparameter optimization, and implementation of several algorithms for classification and regression problems will be discussed. This report evaluates the performances of K-Nearest Neighbors, Random Forest, and Support Vector Machine algorithms on classifying MOHAWK INDUSTRIES likelihood of litigation. The report also provides severity estimation of lawsuit amount in U.S dollars, by assessing the accuracy performances of Lasso and Ridge regressions, Gradient Boosted Machine, Bagging and Random Forest methods.
